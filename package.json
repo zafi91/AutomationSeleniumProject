@@ -1,0 +1,25 @@
+{
+  "name": "cakesite",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chromedriver": "^77.0.0",
+    "selenium-webdriver": "^4.0.0-alpha.5",
+    "winston": "^3.2.1"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zafi91/CakesProject.git"
+  },
+  "bugs": {
+    "url": "https://github.com/zafi91/CakesProject/issues"
+  },
+  "homepage": "https://github.com/zafi91/CakesProject#readme",
+  "description": ""
+}
